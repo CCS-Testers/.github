@@ -1,1 +1,1 @@
-# To get started please select "Con-Checkout-System" under Repositories on the right.
+# To get started please select "Con-Checkout-System" under Repositories below.
